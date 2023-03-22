@@ -50,3 +50,5 @@ public class CalendarComparisonSwitchCase {
     
     }
 }
+ // I chose to declare the variables with int because the user will enter 1 or 2 from the keyboard 
+//and the days of the week will be numbered from 1 to 7 which is again int
