@@ -53,7 +53,7 @@ public class BankApp {
 
 
 class Bank{
-    final static String name = "National Programing Bank ";
+    final static String name = "National Programming Bank ";
     static Float balance = 1_000_000_000f;
     
     
